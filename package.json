@@ -1,6 +1,6 @@
 {
   "name": "@next-leap/connected-react-router",
-  "version": "6.9.5",
+  "version": "6.9.6",
   "repository": "git://github.com/next-leap/connected-react-router.git",
   "description": "A Redux binding for React Router v4 and v5",
   "main": "lib/index.js",
@@ -34,7 +34,7 @@
   },
   "peerDependencies": {
     "history": "^4.7.2",
-    "react": "^16.4.0 || ^17.0.0 || ^18.2.0" ,
+    "react": "^16.4.0 || ^17.0.0 || ^18.2.0",
     "react-redux": "^6.0.0 || ^7.1.0 || ^8.0.5",
     "react-router": "^4.3.1 || ^5.0.0",
     "redux": "^3.6.0 || ^4.0.0"
